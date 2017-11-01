@@ -1,0 +1,5 @@
+[caps]
+    platformName = "Android"
+    deviceName = "Android Emulator"
+    app = "/Users/luccasxavier/Documents/AppiumKantina/features/support/app-debug.apk"
+    appWaitActivity = 'com.concrete.kantina.features.login.view.activity.LoginActivity'
